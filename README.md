@@ -1,6 +1,6 @@
 # 🦠 Diagnóstico Parasitológico Indireto
 
-Projeto acadêmico desenvolvido para a criação de um sistema voltado ao **diagnóstico parasitológico indireto da doença de Chagas**, utilizando modernas tecnologias de desenvolvimento web e design.
+Projeto acadêmico desenvolvido para a criação de um sistema voltado ao **diagnóstico parasitológico indireto da doença de Chagas**, utilizando modernas tecnologias de desenvolvimento web e design (além de visar a adesão de uma Rede Neural Convolucional para diagnosticar).
 
 ---
 
