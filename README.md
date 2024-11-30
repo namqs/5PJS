@@ -6,7 +6,7 @@ Projeto acadêmico desenvolvido para a criação de um sistema voltado ao **diag
 
 ## 👩‍💻 **Equipe de Desenvolvimento**  
 - **Natalie Marques Feitosa**  
-- **Sarah Vanderei**  
+- **Sarah Vitória Luiz Vanderei**  
 - **João Pedro Bittencourt da Silva**  
 
 ---
