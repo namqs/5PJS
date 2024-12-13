@@ -33,6 +33,10 @@ Acesse o protótipo interativo no Figma para visualizar o design e a estrutura d
 Explore o código fonte completo do projeto disponível no GitHub:  
 [🔗 Repositório no GitHub](https://github.com/SarahVitoriaL/PJS)  
 
+### Vídeo do funcionamento
+Veja o vídeo do sistema rodando:
+
+[🔗Vídeo](https://drive.google.com/file/d/1Rw-mM5xzyrqnlk851y818cVZjD3Z3ixZ/view)
 ---
 
 ## 📑 **Descrição do Projeto**  
